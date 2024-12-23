@@ -1,6 +1,6 @@
 # Onefootball Auto Reff  
 
-**[Onefootball AutoReff](https://ofc.onefootball.com/)** is a tool designed for automatic operations on Onefootball airdrop  
+**[Onefootball AutoReff](https://ofc.onefootball.com/s2)** is a tool designed for automatic operations on Onefootball airdrop  
 
 ---
 
